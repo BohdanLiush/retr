@@ -87,7 +87,6 @@ import com.google.gson.annotations.SerializedName;
         @Expose
         private Integer gunPiercingPowerMin;
 
-
         @SerializedName("turret_rotation_speed")
         @Expose
         private Integer turretRotationSpeed;
@@ -136,7 +135,6 @@ import com.google.gson.annotations.SerializedName;
         @SerializedName("name_i18n")
         @Expose
         private String nameI18n;
-
 
         public Integer getVehicleArmorFedd() {
             return vehicleArmorFedd;

@@ -55,7 +55,6 @@ public class _17 {
     @Expose
     private Double weight;
 
-
     @SerializedName("radio_distance")
     @Expose
     private Integer radioDistance;
@@ -134,7 +133,6 @@ public class _17 {
     @SerializedName("name_i18n")
     @Expose
     private String nameI18n;
-
 
     public Integer getVehicleArmorFedd() {
         return vehicleArmorFedd;
